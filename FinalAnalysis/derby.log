@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Dec 13 20:49:03 PST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-016f-02bd-13b2-00001f6f07e0 
+on database directory /home4/icgranger/P3-ghostdog-p3/FinalAnalysis/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@2d532637 
+Loaded from file:/usr/local/spark-2.4.4-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=/home4/icgranger/P3-ghostdog-p3/FinalAnalysis
+os.name=Linux
+os.arch=amd64
+os.version=3.10.0-1062.7.1.el7.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
